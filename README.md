@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhaythakur1604
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Fullstack skills
+- 🌱 I’m currently learning React.js
 - 
 
 <!---
